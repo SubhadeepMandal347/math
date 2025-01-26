@@ -12,7 +12,7 @@ using namespace std;
     }
    return rev;
  }
-
+//subha
 int main(){
     int n;cin>>n;
 cout<<reverse(n);
