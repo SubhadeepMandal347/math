@@ -21,7 +21,6 @@ using namespace std;
 //subha
 //subha
 //ppo
-//ppl
 //subha
 //subha
 //subha
