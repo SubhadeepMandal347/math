@@ -13,6 +13,17 @@ using namespace std;
    return rev;
  }
 //subha
+//subha
+//subha
+//subha
+//subha
+//subha
+//subha
+//subha
+
+//subha
+//subha
+//subha
 int main(){
     int n;cin>>n;
 cout<<reverse(n);
